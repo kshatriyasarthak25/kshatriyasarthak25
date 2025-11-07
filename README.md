@@ -16,7 +16,8 @@
 ![](https://github-profile-trophy.vercel.app/?username=kshatriyasarthak25&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko&quote=Consistency%20beats%20motivation.%20%E2%80%94%20Sarthak)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko&quote=%E0%A4%95%E0%A4%B0%E0%A5%8D%E0%A4%AE%E0%A4%A3%E0%A5%8D%E0%A4%AF%E0%A5%87%E0%A4%B5%E0%A4%BE%E0%A4%A7%E0%A4%BF%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%87%20%E0%A4%AE%E0%A4%BE%20%E0%A4%AB%E0%A4%B2%E0%A5%87%E0%A4%B7%E0%A5%81%20%E0%A4%95%E0%A4%A6%E0%A4%BE%E0%A4%9A%E0%A4%A8%E0%A5%A4)
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=kshatriyasarthak25&limit=5&theme=dark&combine_all_yearly_contributions=true)
